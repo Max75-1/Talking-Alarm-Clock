@@ -1,0 +1,11 @@
+../Core/Src/sd.c:25:16:SD_cmd	24	static
+../Core/Src/sd.c:65:6:SD_PowerOn	4	static
+../Core/Src/sd.c:71:9:SD_Read_Block	32	static
+../Core/Src/sd.c:93:9:SD_Write_Block	24	static
+../Core/Src/sd.c:115:9:sd_ini	40	static
+../Core/Src/sd.c:186:6:Error	8	static
+../Core/Src/sd.c:191:9:SPIx_WriteRead	32	static
+../Core/Src/sd.c:202:6:SPI_SendByte	16	static
+../Core/Src/sd.c:207:9:SPI_ReceiveByte	16	static
+../Core/Src/sd.c:213:6:SPI_Release	8	static
+../Core/Src/sd.c:218:9:SPI_wait_ready	16	static
